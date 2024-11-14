@@ -64,9 +64,4 @@ If you encounter issues:
 - Check that Node.js and npm are up-to-date.
 - Restart the server with `npm start`.
 
-## License
-
-This project is licensed under the MIT License.
-```
-
 This `README.md` file provides a comprehensive guide on setting up, running, and using the dashboard application. Make sure to replace the repository URL with the actual URL if you're uploading it to GitHub.
